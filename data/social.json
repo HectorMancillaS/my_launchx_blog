@@ -1,9 +1,9 @@
 {
   "links": [
     {
-      "name": "instagram",
+      "name": "twitter",
       "url": "https://www.instagram.com/hmancillass",
-      "image": "images/social/instagram.svg"
+      "image": "images/social/twitter.svg"
     },
     {
       "name": "github",
