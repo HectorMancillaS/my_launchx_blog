@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Hector Mancilla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://hectormancillas.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hectormancillas.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://hectormancillas.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hectormancillas.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Desde el dia uno en el onboarding fue recordar y aprender, desde los conceptos basicos de la programacion, la logica de la programacion, ciclos la sintaxis de python crear notebooks en jupyter y como trabajar en ellas, programar html y como darle un orden con css usar javascrip y los que mas me costaron fueron los framework los entendi pero no pude aplicarlos.
+Gracias por leer.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://hectormancillas.github.io/my_launchx_blog/posts/intro/</link>
